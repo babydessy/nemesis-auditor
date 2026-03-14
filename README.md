@@ -55,7 +55,7 @@ The loop runs until **convergence** -- no new findings in a pass (max 6 passes).
 
 ```bash
 # Clone this repo
-git clone https://github.com/sainikethan/nemesis-auditor.git
+git clone https://github.com/0xiehnnkta/nemesis-auditor.git
 
 # Copy the .claude folder into your project
 cp -r nemesis-auditor/.claude /path/to/your-project/
@@ -68,7 +68,7 @@ rm -rf nemesis-auditor
 
 ```bash
 # Clone and enter the repo
-git clone https://github.com/sainikethan/nemesis-auditor.git
+git clone https://github.com/0xiehnnkta/nemesis-auditor.git
 cd nemesis-auditor
 
 # Symlink your codebase into this directory
